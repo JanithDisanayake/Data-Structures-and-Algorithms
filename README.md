@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures and Algorithms
 
 ### <ins>Data Structures</ins> <br>
 &emsp; |--> `Queue` <br>
@@ -9,3 +9,8 @@
 &emsp;&emsp;&emsp;&emsp; |--> `Circular Linked List` <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |--> `Circular Singly Linked List` <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |--> `Circular Doubly Linked List` <br>
+
+### <ins>Algorithms</ins> <br>
+- [ ] Insertion sort
+- [ ] Selection sort
+- [ ] Bubble sort
