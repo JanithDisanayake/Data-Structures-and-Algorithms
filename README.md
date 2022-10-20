@@ -11,6 +11,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |--> `Circular Doubly Linked List` <br>
 
 ### <ins>Algorithms</ins> <br>
-- [ ] Insertion sort
+- [x] Insertion sort
 - [ ] Selection sort
 - [ ] Bubble sort
