@@ -19,6 +19,13 @@ public class SelectionSort {
             arr[i] = temp;
         }
 
+        print(arr);
         return arr;
+    }
+
+    public void print(int[] arr) {
+        for(int element : arr) {
+            System.out.println(element);
+        }
     }
 }
