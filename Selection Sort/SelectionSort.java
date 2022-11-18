@@ -19,7 +19,6 @@ public class SelectionSort {
             arr[i] = temp;
         }
 
-        print(arr);
         return arr;
     }
 
