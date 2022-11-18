@@ -12,5 +12,5 @@
 
 ### <ins>Algorithms</ins> <br>
 - [x] Insertion sort
-- [ ] Selection sort
+- [x] Selection sort
 - [ ] Bubble sort
