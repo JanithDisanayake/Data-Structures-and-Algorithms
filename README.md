@@ -11,6 +11,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |--> [`Circular Doubly Linked List`](/Linked%20List/Circular%20Linked%20List/Circular%20Doubly%20Linked%20List) <br>
 
 ### <ins>Algorithms</ins> <br>
+- [ ] Bubble sort
 - [x] [`Insertion sort`](/Insertion%20Sort)
 - [x] [`Selection sort`](/Selection%20Sort)
-- [ ] Bubble sort
+
